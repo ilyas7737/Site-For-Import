@@ -3,7 +3,5 @@ tmp/
 _old
 _backup
 
-*Thumbs.db
-*.DS_Store
-
-![](./logo.png)
+Thumbs.db
+.DS_Store
